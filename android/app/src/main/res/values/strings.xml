@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">CoGaMed</string>
+    <string name="title_activity_main">CoGaMed</string>
+    <string name="package_name">app.prailele.CoGaMed</string>
+    <string name="custom_url_scheme">app.prailele.CoGaMed</string>
+</resources>

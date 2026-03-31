@@ -1,0 +1,6 @@
+{
+  "appId": "app.prailele.CoGaMed",
+  "appName": "CoGaMed",
+  "webDir": "dist",
+  "bundledWebRuntime": false  
+}

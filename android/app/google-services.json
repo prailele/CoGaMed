@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "602821115987",
+    "project_id": "control-gastos-medicos",
+    "storage_bucket": "control-gastos-medicos.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:602821115987:android:7af90fdee19d2c3f4446a6",
+        "android_client_info": {
+          "package_name": "app.prailele.CoGaMed"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "602821115987-obp546olji7sjiaolevp79npcfsntoqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiqtvPJhP_nf7uRKwzVs7znsygyEkcMF4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "602821115987-obp546olji7sjiaolevp79npcfsntoqi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
