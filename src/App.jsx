@@ -1,4 +1,5 @@
 //
+//testing branches
 import React, { useState, useEffect, useRef } from 'react';
 import {
   PlusCircle, Search, Check, Terminal, Activity, Receipt, X, Copy, Paperclip,
@@ -39,7 +40,7 @@ const storage = getStorage(firebaseApp);
 
 
 // DATABASE_ID: Mantén "control-gastos-v1-test" aquí y cámbialo a "control-gastos-v1" en tu localhost
-const DATABASE_ID = "control-gastos-v1-test";
+const DATABASE_ID = "control-gastos-v1";
 const ADMIN_EMAILS = ["prailele@gmail.com"];
 
 // --- FUNCIONES DE ESTILO ---
